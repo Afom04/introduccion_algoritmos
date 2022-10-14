@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+'Por favor ingrese el valor de la pensión e ingrese la edad de sangra'
+5
+1
+23
+Val_Pension,edad_sandra
+7
+0
+1
+15
+edad_sandra>=50
+6
+3
+8
+Val_papa
+20
+trunc(Val_Pension)/2
+13
+Val_descuento
+41
+trunc(Val_Pension)*trunc(edad_sandra)/100
+10
+Val_sandra
+36
+trunc(Val_papa)-trunc(Val_descuento)
+4
+1
+62
+'El padre pagara ' , Val_papa , ' y sandra pagara', Val_sandra
+13
+6
+2
+10
+val_Sandra
+1
+0
+8
+Val_papa
+20
+trunc(Val_Pension)/2
+4
+1
+57
+'Sandra pagara', val_Sandra, 'y el papa pagara', Val_papa
+13
+1

@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese el valor del vehiculo'
+5
+1
+8
+vehiculo
+6
+3
+1
+p
+26
+trunc(vehiculo)*0.7-200000
+1
+i
+12
+trunc(p)*0.3
+2
+pt
+14
+trunc(p)+(i*5)
+4
+1
+40
+'El valor del prestamo es $', p, 'pesos'
+6
+2
+2
+cm
+12
+trunc(pt)/60
+2
+cm
+9
+trunc(cm)
+7
+0
+1
+16
+vehiculo<=200000
+4
+1
+30
+'Su cuota mensual es de $', cm
+13
+4
+1
+55
+'Puede pagar el vehiculo sin necesidad de  un prestamo'
+13
+1

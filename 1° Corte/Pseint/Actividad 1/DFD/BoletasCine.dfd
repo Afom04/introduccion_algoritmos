@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+" porfavor escribir el precio de la boleta general "
+5
+1
+7
+general
+6
+2
+5
+medio
+9
+general*2
+12
+preferencial
+7
+medio*3
+4
+1
+49
+"¿cual fue el total de boletas vendidas general?"
+5
+1
+13
+total_general
+4
+1
+47
+"¿cual fue el total de boletas vendidas medio?"
+5
+1
+11
+total_medio
+4
+1
+55
+"¿cual  fue el total de boletas vendidas preferencial?"
+5
+1
+18
+total_preferencial
+6
+3
+14
+total_vendidas
+44
+total_general+total_medio+total_preferencial
+9
+recaudo_g
+21
+total_general*general
+9
+recaudo_m
+17
+total_medio*medio
+6
+2
+9
+recaudo_p
+31
+total_preferencial*preferencial
+13
+recaudo_total
+29
+recaudo_g+recaudo_m+recaudo_p
+4
+1
+49
+"el recaudo total del cine fue de ",recaudo_total
+6
+1
+10
+porcentaje
+27
+recaudo_g*100/recaudo_total
+4
+1
+67
+'el porcentaje de boletas preferenciales vendidas es de',porcentaje
+1

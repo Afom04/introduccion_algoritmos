@@ -1,0 +1,119 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+74
+'Por favor ingrese el tiempo de estadia en minutos y el tipo de membresia'
+4
+1
+69
+'Escriba 1 para memebresia Estrella y 0 para membresia Preferencial '
+5
+1
+11
+T,membresia
+7
+0
+1
+4
+T<=0
+7
+0
+1
+15
+T>=0 AND T<=180
+7
+0
+1
+17
+T>=300 AND T<=720
+6
+1
+5
+cobro
+12
+trunc(T)*120
+4
+1
+26
+'Tiene que pagar $', cobro
+13
+6
+1
+5
+cobro
+5
+50000
+13
+13
+6
+1
+5
+cobro
+5
+20000
+13
+7
+0
+1
+11
+membresia=0
+7
+0
+1
+11
+membresia=1
+7
+0
+1
+30
+membresia<= 0 AND membresia >1
+13
+4
+1
+27
+'Tendra que pagar $', cobro
+13
+13
+6
+2
+3
+des
+9
+cobro*0.4
+3
+des
+10
+trunc(des)
+4
+1
+29
+'y su descuento es de $', des
+13
+13
+6
+2
+3
+des
+9
+cobro*0.2
+3
+des
+10
+trunc(des)
+4
+1
+29
+'y su descuento es de $', des
+13
+13
+4
+1
+36
+'El tiempo que digito es incorrecto'
+13
+1

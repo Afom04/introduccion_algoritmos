@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+"escribir el precio del tiquete de trabajador";
+5
+1
+9
+Tiquete_1
+4
+1
+53
+"ingrese si es trabajador, estudiante o adulto mayor"
+5
+1
+1
+x
+7
+0
+1
+14
+x="estudiante"
+7
+0
+1
+14
+x="trabajador"
+7
+0
+1
+16
+x="adulto mayor"
+4
+1
+87
+"Usted no aplica para descuento  usted pagara el precio normal el cual es: ", tiquete_1
+13
+6
+1
+9
+t_adultoM
+11
+tiquete_1/2
+4
+1
+42
+"usted debe pagar por pasaje: ", t_adultoM
+13
+13
+6
+1
+12
+t_trabajador
+9
+tiquete_1
+4
+1
+45
+"usted debe pagar por pasaje: ", t_trabajador
+13
+13
+6
+1
+12
+t_estudiante
+14
+tiquete_1*0.30
+4
+1
+45
+"usted debe pagar por pasaje: ", t_estudiante
+13
+4
+1
+15
+"tenga buen dia
+1

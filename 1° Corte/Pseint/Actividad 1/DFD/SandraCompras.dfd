@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+"bienvenido a nuestra tienda"
+4
+1
+49
+"porfavor escriba el valor de la camisa comprada"
+5
+1
+2
+cA
+6
+3
+2
+pA
+4
+2*cA
+3
+cha
+4
+4*pA
+6
+Valtot
+6
+pA+cha
+6
+2
+3
+des
+10
+Valtot*0.2
+5
+total
+10
+Valtot-des
+4
+1
+74
+"la compra costo en total ",total," y la compra tuvo un descuento de ",des
+6
+2
+2
+pS
+7
+total/3
+3
+pPa
+8
+total-pS
+6
+2
+2
+pP
+5
+pPa/3
+2
+pM
+14
+total-(pPa-pP)
+4
+1
+45
+'sandra tiene que pagar ',pS," por la compra"
+4
+1
+56
+'el papa de sandra tiene que pagar ',pP,' por la compra'
+4
+1
+58
+' la madre de sandra tiene que pagar ',pM,' por la compra'
+1

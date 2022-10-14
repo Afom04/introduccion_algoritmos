@@ -1,0 +1,23 @@
+inicialmente se introducen las librerias necesarias para dar paso al codigo, iniciando con la libreria clasica
+iostream que nos permite la entrada y salida de datos, seguido de ella esta la del tipo matematico que como
+su nombre lo indica es la que permite realizar procesos matematicos y como ultima de ellas esta la que permite 
+a la maquina realizar funciones con asigancion de memoria, control de procesos, conversiones y demas. con ellas 
+definidas de puede dar paso a la realizacion del codigo en materia.
+ inicia con las variables que pasaran a ser usadas con el fin de definir el ganador del millon de pesos, bono que
+es asignado segun el numero de empleados esto 
+se determina con el empleado que este en la mitad del numero total de empleados, posterior a esto
+se ingresa el numero de empleados y la validaxion de los mismos usando do, while, else y por ultimo if, seran usadas 
+para crear el ciclo de validaciones necesarias para confirmar el ganador. luego se igualan las variables con el proposito
+ de que la variable original no se vea afectada, siguiendo se deben contar las cantidades de cifras o digitos que componen 
+la asignacion (empleados),se hace la separacion asi como el guardado de las cifras o digitos que tiene (empleados)
+posteriormente se deben usar los numeros de digitos pares y el fin de ello es validar el ganador del millon de pesos asi 
+como tambien se hace el mismo proceso con los posibles numeros impares.
+
+da inicio la definicion de variables para el bono de 50 mil pesos y para ello se ocupa un contador con el fin de pedir 
+las fechas de nacimiento de los trabajadores posibles aspirantes para el bono de 50 mil, se usa un do/while para validar esto.
+ Se debe usar un condicional que es requerido y ayudara a definir si el año es
+bisiesto asi como tambien anidados para conocer si el mes tiene menos de 31 dias.
+
+luego de esto continua la definicion de variables para el bono de 100 mil pesos asi como anteriormete el ingreso de datos en un do/while 
+para validar los mismos y ahora se continua con un contador que calcula los multiplos de z que define como limite asi como una condicional
+ que calcula que los multiplos de z no puedan ser divisibles en w y con esta ultima instruccion concluye el codigo.

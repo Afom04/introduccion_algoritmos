@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+56
+"Por favor escribir el precio del boleto de trabajador."
+5
+1
+10
+trabajador
+7
+0
+1
+12
+trabajador<=
+6
+2
+6
+ comun
+19
+(trabajador*100)/30
+10
+estudiante
+7
+comun/2
+4
+1
+59
+"¿Cual fue el total de boletos vendidos en la linea común."
+5
+1
+11
+total_comun
+6
+1
+11
+Dinfincomun
+17
+total_comun*comun
+4
+1
+65
+"¿Cual fue el total de boletos vendidos en la linea estudiantes."
+5
+1
+9
+total_est
+6
+1
+9
+Dinfinest
+21
+total_est*estudiantes
+4
+1
+64
+"¿Cual fue el total de boletos vendidos en la linea trabajador."
+5
+1
+10
+total_trab
+6
+1
+10
+Denfintrab
+21
+total_trab*trabajador
+4
+1
+132
+"El dinero recolectado en las diferentes lineas fueron: Común $",comun,", estudiantes $",estudiante," y trabajador $",trabajador,"."
+13
+4
+1
+28
+"Los boletos son gratuitos."
+13
+1

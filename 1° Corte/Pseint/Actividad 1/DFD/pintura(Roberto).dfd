@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+" escribir los valores de x y "
+5
+1
+6
+x, y_1
+6
+1
+4
+area
+5
+x*y_1
+7
+0
+1
+6
+area=1
+6
+2
+7
+galones
+6
+area*5
+4
+pago
+13
+10000*galones
+13
+6
+2
+8
+galones 
+1
+1
+4
+pago
+5
+10000
+13
+4
+1
+71
+"en total se utilizaron ",galones," galones y se tuvo que pagar ",pago 
+1
